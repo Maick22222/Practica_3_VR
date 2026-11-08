@@ -1,0 +1,8 @@
+CONTROLES
+
+Desplazamiento: manteniendo rueda ratón
+Agarre: doble click en rueda del ratón 
+Soltar:doble click en rueda del ratón
+
+JUEGOS
+ Bolos,Sr.Potato,Dardos,Golpear piñata
